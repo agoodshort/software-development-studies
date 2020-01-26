@@ -70,9 +70,6 @@ When selecting to encrypt/decrypt a file you will be prompted to navigate throug
 You will be automatically directed to your home folder.
 You will have to enter the name of the folder you would like to access. You can use the word "return" to go back one directory.
 
-## Authors
-
-* **Adrien Biencourt** - *Initial work* - [goodshort](https://github.com/goodshort)
 
 ## License
 
