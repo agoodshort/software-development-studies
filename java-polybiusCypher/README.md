@@ -69,8 +69,3 @@ This feature allows you to automatically copy the encrypted text to your clipboa
 When selecting to encrypt/decrypt a file you will be prompted to navigate through you file system.
 You will be automatically directed to your home folder.
 You will have to enter the name of the folder you would like to access. You can use the word "return" to go back one directory.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
