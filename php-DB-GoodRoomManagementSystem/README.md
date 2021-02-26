@@ -5,8 +5,8 @@
 A web app project designed for the Web Application Development course of the Higher Diploma in Software Development studies at [GMIT](https://www.gmit.ie/).
 
 ### Screenshots
-![Login](https://raw.githubusercontent.com/goodshort/GoodRoom/master/resources/img/screenshots/login.png)
-![Homepage](https://raw.githubusercontent.com/goodshort/GoodRoom/master/resources/img/screenshots/homepage.png)
+![Login](./resources/img/screenshots/login.png)
+![Homepage](./resources/img/screenshots/homepage.png)
 
 
 ### Sign-in
