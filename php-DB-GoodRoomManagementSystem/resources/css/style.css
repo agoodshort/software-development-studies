@@ -1,0 +1,130 @@
+body {
+    background-color: gray;
+    background-size: cover;
+    background-position: center;
+}
+
+.col-fixed-250 {
+    width: 350px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.col-fixed-450 {
+    width: 450px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+/* -------- nav-pills, signout button ------- */
+
+.btn-primary, .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: black;
+    background-color: #ced4da;
+    border-color: #1d2124;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #545b62;
+    color:black;
+    border-color: #1d2124;
+}
+
+.nav-pills > li > a:hover {
+    background-color: #545b62;
+    color:black;
+}
+
+a {
+    color: #f8f9fa;
+}
+
+/* -------- Lookup form ------- */
+
+.lookup-form {
+    padding: 0 -20px 30px;
+}
+
+.lookup-form label {
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #fff;
+}
+
+input::placeholder {
+    color: darkgray !important;
+}
+
+.input-grp {
+    width: 250px;
+    display: inline-block;
+}
+
+.form-control {
+    font-size: 12px !important;
+    border-radius: 15 !important;
+    color: #fff !important;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+
+.custom-select {
+    color: #fff !important;
+    font-size: 12px !important;
+    border: 1px solid #ced4da !important;
+    box-shadow: none !important;
+    border-radius: 15 !important;
+    background: transparent !important;
+}
+
+
+.custom-select option {
+    color: #333;
+}
+
+/* ---------- search button ----------*/
+ .search {
+    margin: 20px 0;
+    width: 100%;
+    padding: 10px 0;
+    font-size: 12px;
+    border: 1px solid #ced4da;
+    background: #ced4da;
+    box-shadow: none;
+    border-radius: 15;
+}
+
+.search:hover {
+    background: #545b62;
+    color: #000;
+}
+
+/* ---------- Table ----------*/
+
+table {
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid #ced4da;
+    background: transparent;
+    box-shadow: none;
+    border-radius: 15;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #ced4da;
+}
+
+th,
+td {
+    border: 1px solid #ced4da;
+    padding: 10px;
+
+}
+
+tr:hover {
+    background-color: #a0a4a8;
+}
